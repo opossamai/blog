@@ -25,7 +25,7 @@ O cmdlet `ConvertFrom-String` é um passo da linguagem rumo a universalização.
 Leia mais sobre [aqui](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/convertfrom-string?view=powershell-5.1).
 
 ### Módulo Microsoft.PowerShell.Archive
-Incluí alguns cmdlets, como `Expand-Archive` e `Compress-Archive`, que permitem a compactação de arquivos em pastas ZIP e a extração das pastas desse mesmo formato. Acabando com a necessidade de instalação de softwares terceiros para realizar essa operações.
+Inclui alguns cmdlets, como `Expand-Archive` e `Compress-Archive`, que permitem a compactação de arquivos em pastas ZIP e a extração das pastas desse mesmo formato. Acabando com a necessidade de instalação de softwares terceiros para realizar essa operações.
 
 ### Módulo PackageManagement
 Esse módulo centraliza o gerenciamento de pacotes/softwares. Permitindo o manejo de múltiplos pacotes de diferentes provedores de forma simples e unificada. O desenvolvedor pode procurar, instalar, remover, etc. diferentes pacotes de diferentes provedores utilizando o mesmo comando e obtendo retornos padronizados.
