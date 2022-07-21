@@ -9,14 +9,14 @@ O Windows Powershell como era conhecido há alguns anos atrás, mudou muito até
 Aqui vamos abordar algumas das principais mudanças das últimas três versões do Windows Powershell (5.0, 6.0 e 7.0).
 
 ## Windows Powershell 5.0
-Lançada em Fevereiro de 2016, a versão 5.0 trouxe grandes avançoes para a linguagem. Tornando-a ainda mais poderosa e abrangente, abrindo um leque ainda maior de possibilidades de utilização.
+Lançada em Fevereiro de 2016, a versão 5.0 trouxe grandes avanços para a linguagem. Tornando-a ainda mais poderosa e abrangente, abrindo um leque ainda maior de possibilidades de utilização.
 
 Vamos falar sobre algumas das principais mudanças:
 
 ### Classes
 Talvez a maior e mais importante novidade dessa versão: a possibilidade de desenvolver utilizando classes.
 Junto da versão 5.0 do Windows Powershell, foi adicionada a palavra-chave `Class` e toda uma série de sintaxes e semânticas similares à outras linguagens de programação orientadas a objeto.  
-A introdução dessa possibilidade de criação de classes personalizadas pelo desenvolvedor, traz ao Powershell um novo espectro de desenvolvimento de aplicações e scrips. Dando mais ar e vida à linguagem.
+A introdução dessa possibilidade de criação de classes personalizadas pelo desenvolvedor, traz ao Powershell um novo espectro de desenvolvimento de aplicações e scripts. Dando mais ar e vida à linguagem.
 
 ### ConvertFrom-String
 O cmdlet `ConvertFrom-String` é um passo da linguagem rumo a universalização. Abrindo ainda mais possibilidades para a operação com softwares/comandos que não trabalham com retornos .NET.  
